@@ -4,6 +4,8 @@
 
 ---
 
+<div align="center" style="display: flex; flex-direction: row; justify-content: center; gap: 50px; flex-wrap: wrap;">
+
   <p align="center">
   <table>
     <tr>
